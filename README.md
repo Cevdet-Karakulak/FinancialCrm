@@ -2,7 +2,7 @@
 
 Murat Yücedağ ile katıldığım C# Eğitim Kampı, yazılım geliştirme alanındaki yeteneklerimi önemli ölçüde artırmamı sağladı. Bu eğitimde aldığım bilgilerle 20’den fazla uygulamalı projeyi başarıyla tamamladım. C# dilinde programlamaya dair güçlü bir altyapı kazandım ve birçok yazılım konusunu derinlemesine öğrendim. Bu süreçte öğrendiklerimi pratikte kullanabileceğim büyük bir proje olan FinancialCRM'i geliştirdim.
 
-💻 FinancialCRM: Finansal Verilerinizi Kolayca Yönetin
+### 💻 FinancialCRM: Finansal Verilerinizi Kolayca Yönetin
 
 FinancialCRM, finansal verilerinizi yönetmenize yardımcı olan bir Windows Forms uygulamasıdır. Bu proje, SQL veritabanı ile entegre bir yapıya sahip olup banka işlemleri, faturalar, harcamalar, kategoriler ve kullanıcı kimlik doğrulaması gibi işlemleri kolayca yönetmenizi sağlar. Proje, finansal yönetim süreçlerinizi verimli hale getirmek için kapsamlı bir çözüm sunuyor.
 
