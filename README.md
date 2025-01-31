@@ -17,14 +17,28 @@ Filtreleme Seçenekleri: İşlemleri "Tümünü Göster", "Maksimum Ücretli", "
 ### 🖥 Kullanıcı Dostu Formlar:
 
 FrmDashboard: Uygulamanın ana kontrol paneli, tüm modüllere buradan erişebilirsiniz.
+![Image](https://github.com/user-attachments/assets/77c28baf-be2b-4e02-8a8b-359eba1c1d2b)
+
 FrmCategories: Harcama kategorilerini ekleyebilir, güncelleyebilir veya silebilirsiniz.
+![Image](https://github.com/user-attachments/assets/423387d7-1793-4697-954f-bd19ad410301)
+
 FrmBanks: Banka hesaplarınızın bilgilerini ve bakiye durumlarını görüntüleyebilirsiniz.
+![Image](https://github.com/user-attachments/assets/3d5e1643-c118-42c6-b6d8-1668bed1e78f)
+
 FrmBilling: Fatura ekleme, düzenleme ve silme işlemlerini yapabilirsiniz.
+![Image](https://github.com/user-attachments/assets/d80a012d-db28-41f8-9b74-15c2d3eb0fcc)
+
 FrmSpendings: Harcama ekleyebilir, güncelleyebilir ve silebilirsiniz.
+![Image](https://github.com/user-attachments/assets/31ff7b49-c4bc-4baa-8427-be0333bf3997)
+
 FrmBankProcess: Son bankacılık işlemlerini ve hareket geçmişini görüntüleyebilirsiniz.
+![Image](https://github.com/user-attachments/assets/684eb173-f827-407d-8eb3-ef4a0644ead3)
+
 FrmSettings: Kullanıcı şifresi değişikliği yapabilir.
+![Image](https://github.com/user-attachments/assets/fd6a8e99-94d2-4ee3-9435-251ad3853b51)
+
 FrmLogin & FrmKayitOl: Kullanıcılar sisteme giriş yapabilir veya yeni bir hesap oluşturabilirler.
-![Image](https://github.com/user-attachments/assets/cdeb54f8-9de5-4aa2-93c6-e5d3826a4489)
+![Image](https://github.com/user-attachments/assets/7001db08-40a5-414a-82c8-8373f75e5c2f)
 ### ⚙️ Teknolojik Altyapı:
 
 C# ve SQL Server kullanarak geliştirilen uygulama, Entity Framework ile veri tabanı yönetimi sağlıyor. Kullanıcı doğrulama ve işlemler için güvenli bir yapı sunuyor.
