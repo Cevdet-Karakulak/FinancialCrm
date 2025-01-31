@@ -34,10 +34,10 @@ FrmSpendings: Harcama ekleyebilir, güncelleyebilir ve silebilirsiniz.
 FrmBankProcess: Son bankacılık işlemlerini ve hareket geçmişini görüntüleyebilirsiniz.
 ![Image](https://github.com/user-attachments/assets/684eb173-f827-407d-8eb3-ef4a0644ead3)
 
-FrmSettings: Kullanıcı şifresi değişikliği yapabilir.
+FrmSettings: Kullanıcı şifresi değişikliği yapabilir veya yeni bir hesap oluşturabilirler.
 ![Image](https://github.com/user-attachments/assets/fd6a8e99-94d2-4ee3-9435-251ad3853b51)
 
-FrmLogin & FrmKayitOl: Kullanıcılar sisteme giriş yapabilir veya yeni bir hesap oluşturabilirler.
+FrmLogin : Kullanıcılar sisteme giriş yapabilir.
 ![Image](https://github.com/user-attachments/assets/7001db08-40a5-414a-82c8-8373f75e5c2f)
 ### ⚙️ Teknolojik Altyapı:
 
