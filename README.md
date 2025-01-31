@@ -6,7 +6,7 @@ Murat Yücedağ ile katıldığım C# Eğitim Kampı, yazılım geliştirme alan
 
 FinancialCRM, finansal verilerinizi yönetmenize yardımcı olan bir Windows Forms uygulamasıdır. Bu proje, SQL veritabanı ile entegre bir yapıya sahip olup banka işlemleri, faturalar, harcamalar, kategoriler ve kullanıcı kimlik doğrulaması gibi işlemleri kolayca yönetmenizi sağlar. Proje, finansal yönetim süreçlerinizi verimli hale getirmek için kapsamlı bir çözüm sunuyor.
 
-###🔑 Proje Özellikleri:
+### 🔑 Proje Özellikleri:
 
 Banka Yönetimi: Banka bilgilerini ve hesap bakiyelerini yönetebilirsiniz.
 Fatura Yönetimi: Faturalarınızı ekleyip düzenleyebilir, geçmiş faturalarınızı görebilirsiniz.
@@ -24,6 +24,7 @@ FrmSpendings: Harcama ekleyebilir, güncelleyebilir ve silebilirsiniz.
 FrmBankProcess: Son bankacılık işlemlerini ve hareket geçmişini görüntüleyebilirsiniz.
 FrmSettings: Kullanıcı şifresi değişikliği yapabilir.
 FrmLogin & FrmKayitOl: Kullanıcılar sisteme giriş yapabilir veya yeni bir hesap oluşturabilirler.
+![Image](https://github.com/user-attachments/assets/cdeb54f8-9de5-4aa2-93c6-e5d3826a4489)
 ### ⚙️ Teknolojik Altyapı:
 
 C# ve SQL Server kullanarak geliştirilen uygulama, Entity Framework ile veri tabanı yönetimi sağlıyor. Kullanıcı doğrulama ve işlemler için güvenli bir yapı sunuyor.
